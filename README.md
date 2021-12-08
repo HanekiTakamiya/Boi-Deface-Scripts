@@ -10,7 +10,9 @@ basically you can just copy the scripts and change it yourself
 usage:
 
 git clone https://github.com/HanekiTakamiya/Boi-Deface-Scripts.git
+
 cd Boi-Deface-Scripts
+
 ls
 
 to view and change the scripts on terminal type nano Scripts.html
